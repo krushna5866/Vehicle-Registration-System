@@ -1,0 +1,35 @@
+{
+  "0x3fef029e473b8ff9fea7f4c9b530bf12bb45431bdeb76577419e1f6aad2615f4": {
+    "vehicleId": "0x3fef029e473b8ff9fea7f4c9b530bf12bb45431bdeb76577419e1f6aad2615f4",
+    "vinCommitment": "0x727532d9061148b2304a078eca79ef196171ab62e74a7ae12a6bc2a9af4d32c7",
+    "plateCommitment": "0x11fdf926b4fdc2088fcd6c4555483443fd085323c8dc841c6fe5e6f25c72eded",
+    "metadataHash": "0x7360b62f8344cfe0b18a20019e7af35b6333784a1e237febf3cc27ae4fbecba2",
+    "make": "Tata",
+    "model": "Nexon EV Max",
+    "year": 2024,
+    "plate": "MH 12 AB 1234",
+    "vinMasked": "MAT...1234"
+  },
+  "0xcae1673ec089037ea31e31ece867af51f3f6f24d6cd4c8e3230f9d4a0711d0e2": {
+    "vehicleId": "0xcae1673ec089037ea31e31ece867af51f3f6f24d6cd4c8e3230f9d4a0711d0e2",
+    "vinCommitment": "0x93f43f7284ba2ee4a44cb30c77d4b6016cc2d9f132382ee9d0270690dd9d170d",
+    "plateCommitment": "0x812e36a196d7650740a36031a8f9b7a0cde3dab06d748abf8b55d971ff1bab3c",
+    "metadataHash": "0xfa3834e934870c0cdc0ee1209594c3754a26ca30b31ef30fc51340013bca8001",
+    "make": "Mahindra",
+    "model": "XUV700 AX7 Pro",
+    "year": 2024,
+    "plate": "23 BH 4567 CD",
+    "vinMasked": "MBH...D901"
+  },
+  "0x07813a550f2a0724fd8362e81c17eedd8504d3c5dc15a0948645a76d4b9e8f1b": {
+    "vehicleId": "0x07813a550f2a0724fd8362e81c17eedd8504d3c5dc15a0948645a76d4b9e8f1b",
+    "vinCommitment": "0xcf2b626115bb181fcd90dc70c9ac6b65cc1415c1d6cff8aa57171a49020ed53a",
+    "plateCommitment": "0xbdc164403585a953a82a60e931cf12b5a9c9b2bc3a854dfb305d3b20217ad034",
+    "metadataHash": "0x64bc0fe53d4adbba3bd80ceb0309adf6092b24c2a8cc62ce61caf27a161532fa",
+    "make": "Toyota",
+    "model": "Fortuner Legender 4x4",
+    "year": 2023,
+    "plate": "TN 10 KL 8899",
+    "vinMasked": "MHF...4567"
+  }
+}

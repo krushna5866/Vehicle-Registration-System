@@ -1,0 +1,34 @@
+{
+  "name": "vehicle-registration-blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain-based Vehicle Registration & Digital Title Management System",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "start": "node scripts/start-all.js",
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "prove": "hardhat run scripts/prove-blockchain.js --network localhost",
+    "node": "hardhat node",
+    "deploy": "hardhat run scripts/deploy.js --network localhost",
+    "frontend": "npm --prefix frontend run dev",
+    "frontend:build": "npm --prefix frontend run build"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "solidity",
+    "vehicle-registration",
+    "hardhat",
+    "react",
+    "dapp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
